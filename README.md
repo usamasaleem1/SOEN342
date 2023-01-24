@@ -3,7 +3,7 @@
 ## Project Description
 With the help of the pizza delivery app Slice, users can simply make orders and check the status of deliveries while also connecting with nearby pizzerias. Customers may tailor their purchase and delivery preferences using a variety of settings available through the app's user-friendly design. Through the app, users can simply explore menus, modify their meals, and place orders.
 
-## features
+## Features
 1. Online and Mobile Ordering: Customers can place orders through the app or the website, and can easily browse menus and customize their orders. Users can also save their preferred pizzerias and past orders for quick and easy access in the future.
 
 2. Multiple Payment Options: Slice offers a range of payment options, including credit card, PayPal, and in-app wallet. Customers can easily switch between payment options, save their preferred payment method, and view their transaction history.
@@ -22,3 +22,4 @@ With the help of the pizza delivery app Slice, users can simply make orders and 
 
 ## Team members
 - Usama Saleem @usamasaleem1
+- Gulnoor Kaur @gul2223
