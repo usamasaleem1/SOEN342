@@ -23,3 +23,6 @@ With the help of the pizza delivery app Slice, users can simply make orders and 
 ## Team members
 - Usama Saleem @usamasaleem1
 - Gulnoor Kaur @gul2223
+- Carter Stroeder @cartercanuck
+- Dannick Bujold-Senss @Bsenss6
+- Hadrien Ovize @hadrieno98
