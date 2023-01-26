@@ -9,7 +9,7 @@ With the help of the pizza delivery app Slice, users can simply make orders and 
 
 2. Filter Optimization: Consumers have the facility to filter restaurants using a price range based on average money spent per order. Enhances the consumer experience by providing specific and detailed filter choices with personalized experience.
 
-3. Multiple Payment Options: The addition of online payment options on the website can facilitate secure payments. Various other options include COD (Cash on Delivery), Visa Debit/Credit, Paypal. Consumers have a guarantee regarding their order placement and transaction. Restaurants have the guarantee regarding the transaction from the consumer if paid using online payments before preparing the order. 
+3. Multiple Payment Options: The addition of online payment options on the website can facilitate secure payments. Various other options include COD (Cash on Delivery), Visa Debit/Credit, Paypal, in-app wallet. Consumers have a guarantee regarding their order placement and transaction. Restaurants have the guarantee regarding the transaction from the consumer if paid using online payments before preparing the order. 
 
 4. Offer User Statistics: Restaurants can have access to local population preferences to gain a better understanding of what the local market is looking for.
 Statistics do not offer any user personal information.
