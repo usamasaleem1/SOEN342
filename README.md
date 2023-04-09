@@ -26,6 +26,7 @@ Statistics do not offer any user personal information.
 
 10. Promotions and Offers: Customers can view special promotions and offers from pizzerias and apply them to their orders.
 
+11. Multiple Orders Deals: Customers can place multiple orders within a specific time range. 
 
 ## Team members
 - Usama Saleem @usamasaleem1
